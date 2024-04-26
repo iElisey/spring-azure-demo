@@ -15,6 +15,6 @@ public class SpringAzureDemoApplication {
     }
     @GetMapping("/message")
     public String message(){
-        return "Congrats ! your application deployed successfully in Azure Platform. !";
+        return "Wo tu lusui plaki plaki ili normaldaki, naxuy bem :)";
     }
 }
